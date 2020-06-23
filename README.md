@@ -1,2 +1,2 @@
 # sql-challenge
-Homework 9
+Used SQL queries to answer questions about sample data
